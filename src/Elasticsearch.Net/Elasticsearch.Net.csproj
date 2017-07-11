@@ -17,4 +17,5 @@
     <PackageReference Include="Microsoft.CSharp" Version="4.3.0" />
   </ItemGroup>
   <Import Project="..\..\.paket\Paket.Restore.targets" />
+  <Import Project="..\outputpath.props" />
 </Project>
